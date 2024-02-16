@@ -1,3 +1,10 @@
+/**
+ * Author Derron
+ * ClassName NamedMultipointTester
+ * 2/15/2024
+ * Version 1.0
+ */
+
 import java.util.Scanner;
 
 public class NamedMultipointTester {

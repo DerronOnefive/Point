@@ -1,3 +1,9 @@
+/**
+ * Author Derron
+ * ClassName Point
+ * 2/15/2024
+ * Version 1.0
+ */
 public class Point {
     private double x;
     private double y;

@@ -1,3 +1,9 @@
+/**
+ * Author Derron
+ * ClassName NamedPoint
+ * 2/15/2024
+ * Version 1.0
+ */
 public class NamedPoint extends Point {
     private String name;
 
